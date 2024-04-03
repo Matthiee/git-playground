@@ -1,6 +1,8 @@
+// entry point
 void main(List<String> args) {
   final feature = MyNewFeature();
-  print('hello world');
+  // this prints hello world!
+  print('hello world!');
   feature.doSomething();
 }
 
