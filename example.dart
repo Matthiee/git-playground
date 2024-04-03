@@ -8,6 +8,6 @@ void main(List<String> args) {
 
 class MyNewFeature {
   void doSomething() {
-    print('I did something...');
+    print('I did something awesome!');
   }
 }
