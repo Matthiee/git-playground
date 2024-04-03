@@ -1,3 +1,5 @@
+// entry point
 void main(List<String> args) {
-  print('hello world');
+  // this prints hello world!
+  print('hello world!');
 }
