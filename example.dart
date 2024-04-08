@@ -8,7 +8,6 @@ void main(List<String> args) {
 
 class MyFeature {
   void doSomething() {
-    // TODO: Check this.
-    print('fix thiss');
+    print('fix this');
   }
 }
