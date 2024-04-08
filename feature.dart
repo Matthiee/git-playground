@@ -14,5 +14,6 @@ class ExtendedFeature extends MyFeature {
   void doSomething() {
     super.doSomething();
     print('part 2');
+    print('part 3');
   }
 }
