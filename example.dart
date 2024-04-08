@@ -1,6 +1,8 @@
+// Entry point
 void main(List<String> args) {
   final feature = MyFeature();
-  print('hello world');
+  // This prints hello world!
+  print('hello world! args: $args');
   feature.doSomething();
 }
 
